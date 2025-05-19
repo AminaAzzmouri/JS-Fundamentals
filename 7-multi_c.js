@@ -1,6 +1,6 @@
 const x = parseInt(process.argv[2]);
 
-if(isNan(x)) {
+if(isNaN(x)) {
 	console.log("Missing number of occurences");
 }
 else {
