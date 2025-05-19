@@ -3,4 +3,4 @@ if(arg === undefined)
 	{
 	console.log("No argument");
 	}
-else { console.loge(arg); }
+else { console.log(arg); }
